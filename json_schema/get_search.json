@@ -1,0 +1,33 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "place_id": {"type": "integer"},
+            "licence": {"type": "string"},
+            "osm_type": {"type": "string"},
+            "osm_id": {"type": "integer"},
+            "boundingbox": {
+                "type": "array",
+                "items": {"type": "string"}
+            },
+            "lat": {"type": "string"},
+            "lon": {"type": "string"},
+            "display_name": {"type": "string"},
+            "place_rank": {"type": "integer"},
+            "category": {"type": "string"},
+            "type": {"type": "string"},
+            "importance": {"type": "number"},
+            "icon": {"type": "string"},
+            "geojson": {
+                "typer": "object",
+                "properties": {
+                    "type": {"type": "string"},
+                    "coordinates": {
+                        "type": "array"
+                    }
+                }
+            }
+        }
+    }
+}

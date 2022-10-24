@@ -1,0 +1,35 @@
+{
+    "type": "object",
+    "properties" : {
+        "place_id": {"type": "integer"},
+        "licence": {"type": "string"},
+        "osm_type": {"type": "string"},
+        "osm_id": {"type": "integer"},
+        "lat": {"type": "string"},
+        "lon": {"type": "string"},
+        "place_rank": {"type": "integer"},
+        "category": {"type": "string"},
+        "type": {"type": "string"},
+        "importance": {"type": "number"},
+        "addresstype": {"type": "string"},
+        "name": {"type": ["string", "null"]},
+        "display_name": {"type": "string"},
+        "address": {
+            "house_number": {"type": "string"},
+            "road": {"type": "string"},
+            "suburb": {"type": "string"},
+            "city_district": {"type": "string"},
+            "city": {"type": "string"},
+            "state": {"type": "string"},
+            "ISO3166-2-lvl4": {"type": "string"},
+            "region": {"type": "string"},
+            "postcode": {"type": "string"},
+            "country": {"type": "string"},
+            "country_code": {"type": "string"}
+        },
+        "boundingbox": {
+            "type": "array",
+            "items": {"type": "string"}
+        }
+    }
+}

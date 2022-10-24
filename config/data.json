@@ -1,0 +1,111 @@
+{
+  "0": {
+    "place_id": 299042976,
+    "display_name": "Франклин Д. Рузвельт, Rond-Point des Champs-Élysées - Marcel Dassault, Quartier du Faubourg-du-Roule, VIII округ, Париж, Иль-де-Франс, Метрополия Франции, 75008, Франция",
+    "address": {
+      "ISO3166-2-lvl4": "FR-IDF",
+      "ISO3166-2-lvl6": "FR-75",
+      "city": "Париж",
+      "city_block": "Quartier du Faubourg-du-Roule",
+      "city_district": "Париж",
+      "country": "Франция",
+      "country_code": "fr",
+      "postcode": "75008",
+      "railway": "Франклин Д. Рузвельт",
+      "region": "Метрополия Франции",
+      "road": "Rond-Point des Champs-Élysées - Marcel Dassault",
+      "state": "Иль-де-Франс",
+      "suburb": "VIII округ"
+    },
+    "coordinates": {
+      "lat": "48.8690339",
+      "lon": "2.3099266"
+    }
+  },
+  "1": {
+    "place_id": 40918103,
+    "display_name": "Шестой этаж 60 Большой Сампсониевский проспект Выборгская сторона округ Сампсониевское Санкт-Петербург Северо-Западный федеральный округ 194044 Россия",
+    "address": {
+      "ISO3166-2-lvl4": "RU-SPE",
+      "ISO3166-2-lvl15": "RU-SPE",
+      "amenity": "Шестой этаж",
+      "city": "Санкт-Петербург",
+      "city_district": "округ Сампсониевское",
+      "country": "Россия",
+      "country_code": "ru",
+      "house_number": "60",
+      "postcode": "194044",
+      "region": "Северо-Западный федеральный округ",
+      "road": "Большой Сампсониевский проспект",
+      "state": "Санкт-Петербург",
+      "suburb": "Выборгская сторона"
+    },
+    "coordinates": {
+      "lat": "59.9741113",
+      "lon": "30.3390128"
+    }
+  },
+  "2": {
+    "place_id": 299408332,
+    "display_name": "6 Пыжёвский переулок район Якиманка Москва Центральный федеральный округ 119017 Россия",
+    "address": {
+      "ISO3166-2-lvl4": "RU-MOW",
+      "city": "Москва",
+      "country": "Россия",
+      "country_code": "ru",
+      "house_number": "6",
+      "postcode": "119017",
+      "region": "Центральный федеральный округ",
+      "road": "Пыжёвский переулок",
+      "state": "Москва",
+      "suburb": "район Якиманка"
+    },
+    "coordinates": {
+      "lat": "55.73914905",
+      "lon": "37.62037056251843"
+    }
+  },
+  "3": {
+    "place_id": 46065903,
+    "display_name": "Centro Geodésico do Brasil Tocantins 104 Sul (ACSE 1) 103 Norte Палмас Região Geográfica Imediata de Palmas Região Geográfica Intermediária de Palmas Токантинс Северный регион 77015-007 Бразилия",
+    "address": {
+      "ISO3166-2-lvl4": "BR-TO",
+      "city": "Палмас",
+      "country": "Бразилия",
+      "country_code": "br",
+      "historic": "Centro Geodésico do Brasil",
+      "municipality": "Região Geográfica Imediata de Palmas",
+      "neighbourhood": "104 Sul (ACSE 1)",
+      "postcode": "77015-007",
+      "region": "Северный регион",
+      "road": "Tocantins",
+      "state": "Токантинс",
+      "state_district": "Região Geográfica Intermediária de Palmas",
+      "suburb": "103 Norte"
+    },
+    "coordinates": {
+      "lat": "-10.1830834",
+      "lon": "-48.3336572"
+    }
+  },
+  "4": {
+    "place_id": 68819017,
+    "display_name": "749 Tatum Street Hamline - Midway Сент-Пол Ramsey County Миннесота 55104 Соединённые Штаты Америки",
+    "address": {
+      "ISO3166-2-lvl4": "US-MN",
+      "city": "Сент-Пол",
+      "country": "Соединённые Штаты Америки",
+      "country_code": "us",
+      "county": "Ramsey County",
+      "house_number": "749",
+      "postcode": "55104",
+      "road": "Tatum Street",
+      "state": "Миннесота",
+      "suburb": "Hamline - Midway"
+    },
+    "coordinates": {
+      "lat": "44.9635623",
+      "lon": "-93.180059"
+    }
+  }
+}
